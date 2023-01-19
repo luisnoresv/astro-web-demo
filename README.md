@@ -7,7 +7,6 @@
 
 ![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
 
-
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
@@ -44,6 +43,11 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`      | Preview your build locally, before deploying       |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
 | `npm run astro --help` | Get help using the Astro CLI                       |
+
+## 👨🏽‍💻 Important Note:
+
+This demo web page was implemented based on Brad Traversy Astro Demo web page on his youtube channel
+url: https://youtu.be/Oi9z5gfIHJs
 
 ## 👀 Want to learn more?
 
